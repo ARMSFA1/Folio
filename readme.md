@@ -250,7 +250,7 @@ ______________________
 
 ![alt text](https://i.imgur.com/CtkOfLl.png "Kanban Board")
 
-<p>Kanban board's have a small amount in common with the next feature I'd like to discuss, pull requests. Pull requests allows all the code that goes into the dev branch to be moderated from other team members. Ensuring that all eyes go on whatever it is being pushed through. As you can see on our kanban board, we had a 'Review' column. This column existed to represent the user stories that were finished, but waiting to be approved by another team member. This massively increases the chance that a bug or error will be caught out before being put onto the live branch, thus damaging the customer.</p>
+<p>Kanban board's have a small amount in common with the next feature I'd like to discuss, pull requests. Pull requests allows all the code that goes into the dev branch to be moderated from other team members. Ensuring that all eyes go on whatever it is being pushed through. As you can see on our kanban board, we had a 'pending review' column. This column existed to represent the user stories that were finished, but waiting to be approved by another team member. This massively increases the chance that a bug or error will be caught out before being put onto the live branch, thus damaging the customer. Pull requests also have the side effect of forcing you to read and comprehend a lot of different code around the website, something that I thought definitely improved my general coding knowledge.</p>
 
 <p>Through the use of these two tools, I believe I was able to massively improve the consistency with the amount and quality of code that we're pushing out.</p>
 
