@@ -207,7 +207,7 @@ ______________________
 
 <p>Email came with its own set of difficulties. Due to the semi-formal nature of it, it was difficulty to quickly communicate over a task at hand and arranging meetings with our customer became a nightmare, as often either one of us or our customer would end up not knowing about it.</p>
 
-> ![alt text](https://i.imgur.com/F7Fe1co.png "Time confusion")
+> ![alt text](https://i.imgur.com/F7Fe1co.png "Time confusion") <br>
 > **The result of how clumsy email can be.**
 
 <p>Thankfully, Agile is a fairly dynamic system, allowing for us to course correct with minor inconvenience to our work flow.</p>
