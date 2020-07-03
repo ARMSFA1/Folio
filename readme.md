@@ -236,10 +236,6 @@ ______________________
 
 <p>Placing the work on a much more comfortable pace, I began working in a much more sustainable manner, doing a consistent amount of work every few days, rather then rushing it all at once. This links into the Agile principle, as defined by [Agile Alliance](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/) **”Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.”**</p>
 
-
- 
-
-
 > #### Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
 
 <p>The decision was made halfway through our work time to shorten the length of our sprints. Sprints previously lasted two weeks, however the access to a lot more free time as the result of the virus, we elected to shorten it to a single week. This meant we were able to consistently deliver code at a rate that wouldn’t have been possible before. This wasn’t a perfect trade however. There were user stories that were simply too large to finish in a single week. This meant that some problems had to be broken into pieces which would result in working code for our customer. There’s a focus on delivering working code as a target within Agile, something that I found a struggle to fit into our current system. However, after a few weeks at the new pace, it felt incredibly natural and without any real issue. I was certainly able to delivery work at a continuous and much faster pace than before; this reflects the Agile principle in question.</p>
@@ -249,6 +245,17 @@ ______________________
 
 ![alt text](https://i.imgur.com/MqpoR3O.png "user stories 1")
 ![alt text](https://i.imgur.com/u0hLSKc.png "user stories 2")
+
+<p>Kanban Boards were used to both allocate and keep track of a sprints progress. Seperated into four seperate coloumns, they allow for a quick way to visualize what needs done. This allowed us to keep up a real time tracker of each others actions and progress within the group. On a sprint completion, seeing which user stories need to be closed and which need to be added onto the next board was incredibly easy. Our kanban board was also used to assign team members to specific tasks. Being able to focus on exactly the tasks at hand was a benefit in determining what jobs you'd be able to apply your strengths to, ensuring that everyone is getting a task that they can handle.</p>
+
+![alt text](https://i.imgur.com/CtkOfLl.png "Kanban Board")
+
+<p>Kanban board's have a small amount in common with the next feature I'd like to discuss, pull requests. Pull requests allows all the code that goes into the dev branch to be moderated from other team members. Ensuring that all eyes go on whatever it is being pushed through. As you can see on our kanban board, we had a 'Review' column. This column existed to represent the user stories that were finished, but waiting to be approved by another team member. This massively increases the chance that a bug or error will be caught out before being put onto the live branch, thus damaging the customer.</p>
+
+<p>Through the use of these two tools, I believe I was able to massively improve the consistency with the amount and quality of code that we're pushing out.</p>
+
+![alt text](https://i.imgur.com/sX3iZhB.png "Some pull requests")
+
 
 <br>
 
