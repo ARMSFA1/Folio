@@ -201,7 +201,7 @@ ______________________
 
 > #### Business people and developers must work together daily throughout the project.
 
-<p>Francis Peña Rosas states *“frequent communication in agile results in better performance of the development team and therefore, a better final product.”* In the opening section of her [article](https://trifinlabs.com/communication-in-agile/).<br> The initial question within The Piers quickly became; how are we going to maintain consistent communication? From past experience, I knew all too well how quickly messing this up could sink a team before they even get off of the ground. Obviously, we had the option of communicating face to face during class time, but that left out the customer and was extremely limited in when we were actually able to do it. Conflicting schedules ensured that another approach would need to be taken. Our solution, initially, was to use an email group and keep each other informed that way.</p>
+<p>Francis Peña Rosas states *“frequent communication in agile results in better performance of the development team and therefore, a better final product.”* In the opening section of her [article](https://trifinlabs.com/communication-in-agile) <br> The initial question within The Piers quickly became; how are we going to maintain consistent communication? From past experience, I knew all too well how quickly messing this up could sink a team before they even get off of the ground. Obviously, we had the option of communicating face to face during class time, but that left out the customer and was extremely limited in when we were actually able to do it. Conflicting schedules ensured that another approach would need to be taken. Our solution, initially, was to use an email group and keep each other informed that way.</p>
 
 > ![alt text](https://i.imgur.com/7hVPc28.png "Arranging to meet with the customer")
 
@@ -222,9 +222,9 @@ ______________________
 
 <p>The Covid-19 pandemic which was beginning to truly sweep the world definitely added a complication to proceedings. Suddenly we’d lost our best method of communication, face to face. While messaging over Slack was extremely effective for what we initially had needed it for, we were now facing new requirements.</p>
 
-<p>Inspired by the way classes were being run at our Polytechnic, with students and teachers able to communicate both with voice and web-camera’s, we quickly took to applying to technology to our own work style. Stand up meetings would be arranged on Slack for a specific time, where a [Citrix Workspace](https://www.citrix.com/en-nz/products/citrix-workspace/) link would be given out, allowing for the team to congregate together and quickly and efficiently perform our stand up meetings.</p>
+<p>Inspired by the way classes were being run at our Polytechnic, with students and teachers able to communicate both with voice and web-camera’s, we quickly took to applying to technology to our own work style. Stand up meetings would be arranged on Slack for a specific time, where a [Citrix Workspace](https://www.citrix.com/en-nz/products/citrix-workspace) link would be given out, allowing for the team to congregate together and quickly and efficiently perform our stand up meetings.</p>
 
-<p>Stand up meetings consisted of three major questions as suggested by Michael Lum’s blog post on the website [Sprint.ly](https://sprint.ly/blog/scrum-meeting-best-practices/):</p>
+<p>Stand up meetings consisted of three major questions as suggested by Michael Lum’s blog post on the website [Sprint.ly](https://sprint.ly/blog/scrum-meeting-best-practices):</p>
 
 > What did you accomplish since the last meeting?
 
